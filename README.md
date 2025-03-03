@@ -38,5 +38,3 @@ Below are the key questions that have been addressed in the analysis:<br>
 - Pandas<br>
 - Jupyter Notebook<br>
 <br>
-**Contributing**<br>
-Feel free to contribute by submitting a pull request or suggesting new questions for analysis.<br>
