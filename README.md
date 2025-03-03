@@ -1,13 +1,13 @@
 # Ecommerce Purchases - Data Analysis Case Study<br>
 <br>
-Overview<br>
+
+**Overview**<br>
 This case study focuses on analyzing an e-commerce purchase dataset to extract valuable insights. The dataset contains various details about customer purchases, including <br>their email addresses, job titles, credit card providers, and purchase amounts.
 <br>
 
 
-## Questions Solved<br>
+**Questions Solved**<br>
 Below are the key questions that have been addressed in the analysis:<br>
-
 1. **Display Top 10 Rows of The Dataset**<br>
 2. **Check Last 10 Rows of The Dataset**<br>
 3. **Check Datatype of Each Column**<br>
@@ -24,17 +24,17 @@ Below are the key questions that have been addressed in the analysis:<br>
 14. **Count the Number of People with a Credit Card Expiring in 2020**<br>
 15. **Identify the Top 5 Most Popular Email Providers (e.g., gmail.com, yahoo.com, etc.)**<br>
 <br>
-## How to Use<br>
+**How to Use**<br>
 1. Clone the repository:<br>
    git clone https://github.com/yourusername/ecommerce-purchases.git <br>
 2. Navigate to the directory:<br>
    cd ecommerce-purchases<br>
 3. Open and run the analysis script in Jupyter Notebook or any Python environment.<br>
 <br>
-## Tools Used <br>
+**Tools Used**<br>
 - Python<br>
 - Pandas<br>
 - Jupyter Notebook<br>
-
-## Contributing<br>
+<br>
+**Contributing**<br>
 Feel free to contribute by submitting a pull request or suggesting new questions for analysis.<br>
