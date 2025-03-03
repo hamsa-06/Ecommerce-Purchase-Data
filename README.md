@@ -24,6 +24,7 @@ Below are the key questions that have been addressed in the analysis:<br>
 14. **Count the Number of People with a Credit Card Expiring in 2020**<br>
 15. **Identify the Top 5 Most Popular Email Providers (e.g., gmail.com, yahoo.com, etc.)**<br>
 <br>
+
 **How to Use**<br>
 1. Clone the repository:<br>
    git clone https://github.com/yourusername/ecommerce-purchases.git <br>
@@ -31,6 +32,7 @@ Below are the key questions that have been addressed in the analysis:<br>
    cd ecommerce-purchases<br>
 3. Open and run the analysis script in Jupyter Notebook or any Python environment.<br>
 <br>
+
 **Tools Used**<br>
 - Python<br>
 - Pandas<br>
