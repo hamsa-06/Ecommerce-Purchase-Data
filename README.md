@@ -1,6 +1,6 @@
 # Ecommerce Purchases - Data Analysis Case Study<br>
 <br>
-## Overview<br>
+Overview<br>
 This case study focuses on analyzing an e-commerce purchase dataset to extract valuable insights. The dataset contains various details about customer purchases, including <br>their email addresses, job titles, credit card providers, and purchase amounts.
 <br>
 
