@@ -27,9 +27,9 @@ Below are the key questions that have been addressed in the analysis:<br>
 
 **How to Use**<br>
 1. Clone the repository:<br>
-   git clone https://github.com/yourusername/ecommerce-purchases.git <br>
+   git clone https://github.com/hamsa-06/Ecommerce-Purchase-Data.git <br>
 2. Navigate to the directory:<br>
-   cd ecommerce-purchases<br>
+   cd Ecommerce-Purchase-Data<br>
 3. Open and run the analysis script in Jupyter Notebook or any Python environment.<br>
 <br>
 
